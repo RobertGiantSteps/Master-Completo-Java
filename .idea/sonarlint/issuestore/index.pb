@@ -27,3 +27,5 @@ U
 %HelloWorld/src/PrimitivosBoolean.java,b/4/b457fa3e56fa6f99c8118b4192891c6bd1478fa8
 S
 #HelloWorld/src/SistemaNumerico.java,1/1/11f71dc64fcacc512dc3c428e98b4735cec2ec2a
+Z
+*HelloWorld/src/SistemaNumericoScanner.java,d/7/d7015bb1cfe5e6ff0cdd7ed99fe4690c5b8478d5
