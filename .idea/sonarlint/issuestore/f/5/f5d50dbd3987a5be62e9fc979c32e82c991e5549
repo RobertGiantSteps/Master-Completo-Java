@@ -1,0 +1,30 @@
+
+7
+java:S1220""Move this file to a named package.8öÌ¹¯1
+d
+java:S1854$"BRemove this useless assignment to local variable "carriageReturn".(úÔ¶Íıÿÿÿÿ8‡Í¹¯1
+Y
+java:S1854"<Remove this useless assignment to local variable "tabSpace".(Á’ÒÕ8‡Í¹¯1
+_
+java:S1854"=Remove this useless assignment to local variable "backSpace".(´‹ÑÆúÿÿÿÿ8‡Í¹¯1
+V
+java:S1854"9Remove this useless assignment to local variable "space".(–î¬ğ8‡Í¹¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÅÒ8ˆÍ¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(ûĞ†¾şÿÿÿÿ8Í¹¯1
+G	java:S106"+Replace this use of System.out by a logger.(õ”ô¢8Í¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯¤¬ÿÿÿÿÿ8Í¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(Î¯¸‚úÿÿÿÿ8Í¹¯1
+G	java:S106"+Replace this use of System.out by a logger.(»î½›8Í¹¯1
+F	java:S106"+Replace this use of System.out by a logger.(¨Í8Í¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(áó½ùÿÿÿÿ8Í¹¯1
+G
+java:S1481"*Remove this unused "space" local variable.(–î¬ğ8Í¹¯1
+P
+java:S1481".Remove this unused "backSpace" local variable.(´‹ÑÆúÿÿÿÿ8‘Í¹¯1
+J
+java:S1481"-Remove this unused "tabSpace" local variable.(Á’ÒÕ8‘Í¹¯1
+U
+java:S1481$"3Remove this unused "carriageReturn" local variable.(úÔ¶Íıÿÿÿÿ8’Í¹¯1
+G	java:S106)"+Replace this use of System.out by a logger.(¡—¼8’Í¹¯1
+L	java:S106*"+Replace this use of System.out by a logger.(×õ‹äşÿÿÿÿ8”Í¹¯1
+L	java:S106+"+Replace this use of System.out by a logger.(ğã‘ÿÿÿÿÿ8•Í¹¯1
