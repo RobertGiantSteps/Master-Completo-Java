@@ -29,3 +29,5 @@ S
 #HelloWorld/src/SistemaNumerico.java,1/1/11f71dc64fcacc512dc3c428e98b4735cec2ec2a
 Z
 *HelloWorld/src/SistemaNumericoScanner.java,d/7/d7015bb1cfe5e6ff0cdd7ed99fe4690c5b8478d5
+U
+%HelloWorld/src/ConversionDeTipos.java,3/c/3c8e9bfab142e22da3c85edfaaf03423ca03ca1b
