@@ -1,0 +1,17 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¢„—Õ8ŸéË‘´1
+7
+java:S1220""Move this file to a named package.8 éË‘´1
+G
+java:S2201	"*The return value of "concat" must be used.(÷Î¶¹8¨éË‘´1
+L	java:S106
+"+Replace this use of System.out by a logger.(ú¼·„üÿÿÿÿ8©éË‘´1
+L	java:S106"+Replace this use of System.out by a logger.(Î¥âÂşÿÿÿÿ8«éË‘´1
+G	java:S106"+Replace this use of System.out by a logger.(¢„—Õ8«éË‘´1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÛÓŞ•8¬éË‘´1
+L	java:S106"+Replace this use of System.out by a logger.(ú¼·„üÿÿÿÿ8¬éË‘´1
+G	java:S106"+Replace this use of System.out by a logger.(†åı˜8¬éË‘´1
+L	java:S106"+Replace this use of System.out by a logger.(Î¥âÂşÿÿÿÿ8­éË‘´1
+G	java:S106"+Replace this use of System.out by a logger.(‘·ıü8úäÌ‘´1

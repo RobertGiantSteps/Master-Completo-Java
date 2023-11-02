@@ -8,15 +8,11 @@ M
 Y
 )HelloWorld/src/PrimitivosFloatDouble.java,7/5/7565358f775cd89ccb768b38e4683d1640f89ce3
 å
-\HelloWorld/.idea/sonarlint/securityhotspotstore/1/3/1302798011b5b68e7bb84fd81aa0899aaf76be78,6/b/6bab9389f9077627fde9c4a1672979fe90f1f753
-å
 \HelloWorld/.idea/sonarlint/securityhotspotstore/5/e/5e1cae5f475a80480cb00606e9b890771daa4840,f/5/f5acab6676a2ed1362cf9614887ad47fcef7c37a
 M
 HelloWorld/src/HolaMundo.java,1/f/1f262d26a4715e7476bcbbcb879b58eac2d45406
 å
 \HelloWorld/.idea/sonarlint/securityhotspotstore/6/8/68894b01ad41f96d66b807881a07c7a5c791c1e4,4/c/4c6e0982e87fc2f58528f80c178a612c47575600
-å
-\HelloWorld/.idea/sonarlint/securityhotspotstore/d/e/dee0cbb1eb7e265fc18e2754345f0796dc1c6579,4/9/492fb132b2b4ba1fd182468c853fca0ab9ca84c6
 ^
 .HelloWorld/.idea/sonarlint/issuestore/index.pb,1/7/17b90a1479aa83b16ace307cee2ed7369d360b4c
 E
@@ -31,3 +27,13 @@ Z
 *HelloWorld/src/SistemaNumericoScanner.java,d/7/d7015bb1cfe5e6ff0cdd7ed99fe4690c5b8478d5
 U
 %HelloWorld/src/ConversionDeTipos.java,3/c/3c8e9bfab142e22da3c85edfaaf03423ca03ca1b
+T
+$HelloWorld/src/DetalleDeFactura.java,4/5/4517c1a1be5b1fc26866b8afad69aed56a3ee00c
+Q
+!HelloWorld/src/EjemploString.java,7/0/704137bd4ac154c749c504b781971a6c99e29c52
+_
+/HelloWorld/src/EjemploStringConcatenaci√≥n.java,c/7/c791d8bc63d2cf091ba2fdf908886567da1b1f6d
+^
+.HelloWorld/src/EjemploStringInmutabilidad.java,9/1/91c7f3f38d94729d90f658eebdf32ef18f0fa9e9
+f
+6HelloWorld/src/EjemploStringTestRendimientoConcat.java,d/e/de828266732f151b782361e9bd7199711e2f323c
