@@ -59,3 +59,5 @@ Z
 *HelloWorld/src/OperadoresRelacionales.java,3/2/320c55cbf316441d2ad98e92a9c91515f4de8b78
 U
 %HelloWorld/src/OperadoresLogicos.java,a/5/a573b76cf33730cac5f9885920115452d355fc8c
+Z
+*HelloWorld/src/OperadoresLogicosLogin.java,1/c/1ce3da89f852b3f5cf149fafb39c644ef8bc4017
