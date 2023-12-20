@@ -1,0 +1,50 @@
+
+7
+java:S1220""Move this file to a named package.8·Ù·¡È1
+T
+java:S2589$"7Remove this expression which always evaluates to "true"(Ÿˆå¹8æÙ·¡È1
+T
+java:S2589$"7Remove this expression which always evaluates to "true"(Ÿˆå¹8æÙ·¡È1
+Y
+java:S2589*"7Remove this expression which always evaluates to "true"(øàÒîûÿÿÿÿ8æÙ·¡È1
+Z
+java:S2589*"8Remove this expression which always evaluates to "false"(øàÒîûÿÿÿÿ8æÙ·¡È1
+Y
+java:S2589'"7Remove this expression which always evaluates to "true"(Š¥Œâùÿÿÿÿ8æÙ·¡È1
+Y
+java:S2589'"7Remove this expression which always evaluates to "true"(Š¥Œâùÿÿÿÿ8æÙ·¡È1
+Y
+java:S2589*"7Remove this expression which always evaluates to "true"(øàÒîûÿÿÿÿ8æÙ·¡È1
+I
+java:S1125"'Remove the unnecessary boolean literal.(†ØêÅùÿÿÿÿ8ëÙ·¡È1
+L	java:S106"+Replace this use of System.out by a logger.(ó˜ññşÿÿÿÿ8ìÙ·¡È1
+G	java:S106"+Replace this use of System.out by a logger.(´¢¤Û8ìÙ·¡È1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Å³àæûÿÿÿÿ8íÙ·¡È1
+L	java:S106"+Replace this use of System.out by a logger.(¯ØÒ‹øÿÿÿÿ8íÙ·¡È1
+D
+java:S1125!"'Remove the unnecessary boolean literal.(èÛù§8íÙ·¡È1
+F	java:S106""+Replace this use of System.out by a logger.(Ä‹Ô/8íÙ·¡È1
+D
+java:S1125$"'Remove the unnecessary boolean literal.(Ÿˆå¹8îÙ·¡È1
+E
+java:S1125$"(Remove the unnecessary boolean literals.(Ÿˆå¹8îÙ·¡È1
+h
+java:S1764$"KCorrect one of the identical sub-expressions on both sides of operator "||"(Ÿˆå¹8îÙ·¡È1
+G	java:S106%"+Replace this use of System.out by a logger.(ÜÍí¨8îÙ·¡È1
+I
+java:S1125'"'Remove the unnecessary boolean literal.(Š¥Œâùÿÿÿÿ8îÙ·¡È1
+I
+java:S1125'"'Remove the unnecessary boolean literal.(Š¥Œâùÿÿÿÿ8îÙ·¡È1
+J
+java:S1125'"(Remove the unnecessary boolean literals.(Š¥Œâùÿÿÿÿ8ïÙ·¡È1
+m
+java:S1764'"KCorrect one of the identical sub-expressions on both sides of operator "&&"(Š¥Œâùÿÿÿÿ8ïÙ·¡È1
+L	java:S106("+Replace this use of System.out by a logger.(ÔºÍ´ÿÿÿÿÿ8ïÙ·¡È1
+I
+java:S1125*"'Remove the unnecessary boolean literal.(øàÒîûÿÿÿÿ8ïÙ·¡È1
+I
+java:S1125*"'Remove the unnecessary boolean literal.(øàÒîûÿÿÿÿ8ïÙ·¡È1
+J
+java:S1125*"(Remove the unnecessary boolean literals.(øàÒîûÿÿÿÿ8ïÙ·¡È1
+L	java:S106+"+Replace this use of System.out by a logger.(ıÒ§òúÿÿÿÿ8¾¸¹¡È1

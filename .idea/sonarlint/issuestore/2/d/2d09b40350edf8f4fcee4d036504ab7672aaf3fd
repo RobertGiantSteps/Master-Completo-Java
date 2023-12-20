@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8ˆÆµ¬¿1
+[
+java:S1659">Declare "j" and all following declarations on a separate line.(™ÜÓ©8™Æµ¬¿1
+G	java:S106	"+Replace this use of System.out by a logger.(¡ÛÈî8™Æµ¬¿1
+L	java:S106
+"+Replace this use of System.out by a logger.(‘öÁíùÿÿÿÿ8™Æµ¬¿1
+L	java:S106"+Replace this use of System.out by a logger.(ò¾Û¬ùÿÿÿÿ8šÆµ¬¿1
+G	java:S106"+Replace this use of System.out by a logger.(©¯²ü8šÆµ¬¿1
+L	java:S106"+Replace this use of System.out by a logger.(”ŸšÑùÿÿÿÿ8šÆµ¬¿1
+F	java:S106"+Replace this use of System.out by a logger.(†ã‰X8šÆµ¬¿1
+F	java:S106"+Replace this use of System.out by a logger.(Ãè‚K8›Æµ¬¿1
+L	java:S106"+Replace this use of System.out by a logger.(«…ª‡ûÿÿÿÿ8›Æµ¬¿1
+L	java:S106 "+Replace this use of System.out by a logger.(û¢Åıÿÿÿÿÿ8›Æµ¬¿1
+L	java:S106#"+Replace this use of System.out by a logger.(û¢Åıÿÿÿÿÿ8›Æµ¬¿1
+L	java:S106("+Replace this use of System.out by a logger.(àİÇøÿÿÿÿ8Ğ »¬¿1
+G	java:S106*"+Replace this use of System.out by a logger.(¢Š˜í8Œî½¬¿1

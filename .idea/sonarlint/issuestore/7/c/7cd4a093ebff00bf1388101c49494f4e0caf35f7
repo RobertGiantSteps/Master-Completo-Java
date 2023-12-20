@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8Àëþ†È1
+R
+java:S1854*"5Remove this useless assignment to local variable "j".(Å¯Ùö8«³„‡È1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8Éëþ†È1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8Éëþ†È1
+G	java:S106"+Replace this use of System.out by a logger.(Ìÿýù8Éëþ†È1
+L	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8Êëþ†È1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8Êëþ†È1
+L	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8Êëþ†È1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8Êëþ†È1
+G	java:S106""+Replace this use of System.out by a logger.(Ìÿýù8Ëëþ†È1
+L	java:S106$"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8Ëëþ†È1
+L	java:S106%"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8Ëëþ†È1
+G	java:S106)"+Replace this use of System.out by a logger.(òä‡í8Ëëþ†È1
+G	java:S106*"+Replace this use of System.out by a logger.(Å¯Ùö8—úƒ‡È1

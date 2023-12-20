@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8€Ù³ı¸1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(–õéçùÿÿÿÿ8ùı»ı¸1
+G	java:S106"+Replace this use of System.out by a logger.(‘µÚ±8Ù³ı¸1
+L	java:S106"+Replace this use of System.out by a logger.(‹·­«ÿÿÿÿÿ8Ù³ı¸1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÅŞ¸8Ù³ı¸1
+L	java:S106"+Replace this use of System.out by a logger.(óŒ ùÿÿÿÿ8‘Ù³ı¸1
+G	java:S106"+Replace this use of System.out by a logger.(ˆşÕÕ8’Ù³ı¸1
+F	java:S106""+Replace this use of System.out by a logger.(èÌe8“Ù³ı¸1
+G	java:S106'"+Replace this use of System.out by a logger.(¦û´ë8“Ù³ı¸1
+G	java:S106("+Replace this use of System.out by a logger.(ßÚ Ö8êâ´ı¸1
