@@ -61,3 +61,9 @@ U
 %HelloWorld/src/OperadoresLogicos.java,a/5/a573b76cf33730cac5f9885920115452d355fc8c
 Z
 *HelloWorld/src/OperadoresLogicosLogin.java,1/c/1ce3da89f852b3f5cf149fafb39c644ef8bc4017
+T
+$HelloWorld/src/OperadorTernario.java,0/8/08ac2f611dd8cebdb19a1d46a7e1392195bfe492
+_
+/HelloWorld/src/OperadorTernarioNumeroMayor.java,f/8/f8f14fabd7e68e461a1f6f8fab7f91f6d6aa2be2
+V
+&HelloWorld/src/OperadorInstanceOf.java,6/7/676ee7bd2bd00f294a0c361c8faae0892d869fae
