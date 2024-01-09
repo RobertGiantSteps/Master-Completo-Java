@@ -71,3 +71,9 @@ d
 4HelloWorld/src/OperadorInstanceOfTiposGenericos.java,6/8/68bedd7eacee9e4786748393b7b97de8f4de63d1
 Y
 )HelloWorld/src/PrecedenciaOperadores.java,6/b/6b472e42c82ec0ca7ce2a60362c280419d420fc2
+M
+HelloWorld/src/Homework1.java,1/e/1ed31542fc1c4b38baf526c6e1b052101f703ba6
+M
+HelloWorld/src/HomeWork2.java,b/4/b4eed3da60e4dd8a72a467b74ae128c20ffcf96e
+M
+HelloWorld/src/HomeWork3.java,b/5/b56897b9ed0cece2e93454c38cebf52835371d4f

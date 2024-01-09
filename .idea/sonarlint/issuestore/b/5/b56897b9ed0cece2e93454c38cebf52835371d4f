@@ -1,0 +1,10 @@
+
+€
+java:S1192+"^Define a constant instead of duplicating this literal " tiene el nombre mÃ¡s largo. " 3 times.(î’ëäüÿÿÿÿ8§¼„Ï1
+7
+java:S1220""Move this file to a named package.8¨¼„Ï1
+d
+java:S1854"BRemove this useless assignment to local variable "terceraPersona".(‹Ï“ìúÿÿÿÿ8¹¼„Ï1
+U
+java:S1481"3Remove this unused "terceraPersona" local variable.(‹Ï“ìúÿÿÿÿ8»¼„Ï1
+L	java:S1061"+Replace this use of System.out by a logger.(‘‘Ú°úÿÿÿÿ8¿¼„Ï1
