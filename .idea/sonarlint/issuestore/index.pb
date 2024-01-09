@@ -67,3 +67,7 @@ _
 /HelloWorld/src/OperadorTernarioNumeroMayor.java,f/8/f8f14fabd7e68e461a1f6f8fab7f91f6d6aa2be2
 V
 &HelloWorld/src/OperadorInstanceOf.java,6/7/676ee7bd2bd00f294a0c361c8faae0892d869fae
+d
+4HelloWorld/src/OperadorInstanceOfTiposGenericos.java,6/8/68bedd7eacee9e4786748393b7b97de8f4de63d1
+Y
+)HelloWorld/src/PrecedenciaOperadores.java,6/b/6b472e42c82ec0ca7ce2a60362c280419d420fc2

@@ -1,0 +1,18 @@
+
+i
+java:S1192
+"LDefine a constant instead of duplicating this literal "promedio = " 7 times.(Ì¯Ô8Ë²İÎ1
+7
+java:S1220""Move this file to a named package.8Ë²İÎ1
+G	java:S106
+"+Replace this use of System.out by a logger.(Ì¯Ô8Ú²İÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¯Ô8Ú²İÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¯Ô8Û²İÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¯Ô8Û²İÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¯Ô8Ü²İÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¯Ô8Ü²İÎ1
+L	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8•ÑÈİÎ1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8êœÉİÎ1
+G	java:S106#"+Replace this use of System.out by a logger.(Ì¯Ô8ôª×İÎ1
+L	java:S106$"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8öª×İÎ1
+L	java:S106%"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8úá×İÎ1
