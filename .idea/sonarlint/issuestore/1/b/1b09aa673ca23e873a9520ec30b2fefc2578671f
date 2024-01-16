@@ -1,0 +1,27 @@
+
+7
+java:S1220""Move this file to a named package.8¯óÇÏÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ÉÅ°Éüÿÿÿÿ8™õÇÏÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ÁÌ§§úÿÿÿÿ8šõÇÏÏ1
+G	java:S106"+Replace this use of System.out by a logger.(—î¨ı8šõÇÏÏ1
+L	java:S106"+Replace this use of System.out by a logger.(®²ˆùıÿÿÿÿ8šõÇÏÏ1
+G	java:S106"+Replace this use of System.out by a logger.(˜¶áš8›õÇÏÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ÜıéØÿÿÿÿÿ8œõÇÏÏ1
+L	java:S106!"+Replace this use of System.out by a logger.(Â§ˆ´ıÿÿÿÿ8õÇÏÏ1
+G	java:S106$"+Replace this use of System.out by a logger.(–÷½8õÇÏÏ1
+L	java:S106'"+Replace this use of System.out by a logger.(ÊÃüşûÿÿÿÿ8õÇÏÏ1
+L	java:S1061"+Replace this use of System.out by a logger.(Îæô¬üÿÿÿÿ8¢õÇÏÏ1
+m	java:S128A"LEnd this switch case with an unconditional break, return or throw statement.(ÌÊëÎüÿÿÿÿ8¡õÇÏÏ1
+G	java:S1066"+Replace this use of System.out by a logger.(©¾ú‚8¢õÇÏÏ1
+L	java:S1069"+Replace this use of System.out by a logger.(€ÑŠıüÿÿÿÿ8¢õÇÏÏ1
+G	java:S106<"+Replace this use of System.out by a logger.(«¦¾8¢õÇÏÏ1
+L	java:S106?"+Replace this use of System.out by a logger.(—Æ¢ùşÿÿÿÿ8£õÇÏÏ1
+G	java:S106B"+Replace this use of System.out by a logger.(á§›‡8£õÇÏÏ1
+L	java:S106D"+Replace this use of System.out by a logger.(ù§£‘ûÿÿÿÿ8£õÇÏÏ1
+L	java:S106G"+Replace this use of System.out by a logger.(¤µ×…ùÿÿÿÿ8¤õÇÏÏ1
+L	java:S106J"+Replace this use of System.out by a logger.(É€àıÿÿÿÿ8¤õÇÏÏ1
+L	java:S106M"+Replace this use of System.out by a logger.(ƒşìıÿÿÿÿ8¤õÇÏÏ1
+L	java:S106P"+Replace this use of System.out by a logger.(ÃÀí—üÿÿÿÿ8…ÉÏÏ1
+G	java:S106S"+Replace this use of System.out by a logger.(ÎêÉï8ÀÇĞÏÏ1
+F	java:S106V"+Replace this use of System.out by a logger.(–íÃ=8­äÕÏÏ1
+L	java:S106Y"+Replace this use of System.out by a logger.(éİú¨øÿÿÿÿ8²ßÁÒÏ1

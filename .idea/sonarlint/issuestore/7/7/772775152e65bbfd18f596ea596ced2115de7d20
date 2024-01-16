@@ -1,0 +1,12 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8«†ŠÑ1
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ×ãø8¬†ŠÑ1
+7
+java:S1220""Move this file to a named package.8¬†ŠÑ1
+[
+java:S1854"9Remove this useless assignment to local variable "letra".(ÃÆÿÿÿÿÿ8Ê†ŠÑ1
+L
+java:S1481"*Remove this unused "letra" local variable.(ÃÆÿÿÿÿÿ8Ì†ŠÑ1
+X
+java:S1119";Refactor the code to remove this label and the need for it.(äğµÊ8Ì†ŠÑ1
+L	java:S106"+Replace this use of System.out by a logger.(È”¢Šüÿÿÿÿ8Í†ŠÑ1

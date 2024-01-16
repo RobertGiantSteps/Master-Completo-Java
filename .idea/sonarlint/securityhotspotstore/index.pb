@@ -77,3 +77,25 @@ M
 HelloWorld/src/HomeWork2.java,b/4/b4eed3da60e4dd8a72a467b74ae128c20ffcf96e
 M
 HelloWorld/src/HomeWork3.java,b/5/b56897b9ed0cece2e93454c38cebf52835371d4f
+S
+#HelloWorld/src/SentenciaIfElse.java,5/c/5ccebb9040fd89a5a696d24019e3cae42cf939d9
+e
+5HelloWorld/src/SentenciaIfElseNumDiasMesBisiesto.java,f/7/f7bf1f8378f8a4da9152165cf560d261a8d0b4bf
+W
+'HelloWorld/src/SentenciaSwitchCase.java,1/b/1b09aa673ca23e873a9520ec30b2fefc2578671f
+i
+9HelloWorld/src/SentenciaSwitchCaseNumDiasMesBisiesto.java,f/1/f10182af0387788c83bfca863a66ecb645421551
+P
+ HelloWorld/src/SentenciaFor.java,8/6/869ec6744566f386e7f6624a01212537afbbf7c9
+]
+-HelloWorld/src/SentenciaForArreglosArray.java,f/c/fc501e1edeeff403472a0ffe83c35e42b8408492
+R
+"HelloWorld/src/SentenciaWhile.java,5/5/558fa604eecbf31132368606391fbba0d3a768a2
+T
+$HelloWorld/src/SentenciaForEach.java,6/3/63e512be843ba6333323e94f418585dbc26bda50
+[
++HelloWorld/src/SentenciaBucleEtiquetas.java,3/f/3f7701d2a7825147c6e045e1f6ce6688fb8dec5c
+Z
+*HelloWorld/src/SentenciaBucleEtiqueta.java,5/6/56ec89ab4343530f9203c66cea911f8fd7fab4c6
+`
+0HelloWorld/src/SentenciaBucleEtiquetaBuscar.java,7/7/772775152e65bbfd18f596ea596ced2115de7d20

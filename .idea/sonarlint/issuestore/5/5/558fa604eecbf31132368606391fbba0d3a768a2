@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8¿úĞùĞ1
+†
+java:S4165"dRemove this useless assignment; "prueba" already holds the assigned value along all execution paths.(ß²éŠøÿÿÿÿ8ëúĞùĞ1
+U
+java:S2589"8Remove this expression which always evaluates to "false"(ş·çÓ8ìúĞùĞ1
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(À–¸³ıÿÿÿÿ8íúĞùĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8ñúĞùĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8òúĞùĞ1
+L	java:S106"+Replace this use of System.out by a logger.(¼Ä€¥şÿÿÿÿ8òúĞùĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Çàùÿÿÿÿÿ8óúĞùĞ1
+L	java:S106%"+Replace this use of System.out by a logger.(èáÑ‚şÿÿÿÿ8ôúĞùĞ1
