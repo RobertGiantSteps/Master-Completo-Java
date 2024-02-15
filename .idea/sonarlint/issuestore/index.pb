@@ -111,3 +111,5 @@ U
 %HelloWorld/src/AutoboxingInteger.java,9/9/99970662cf71d5da6bdd2a8bccc8f836f3d1806e
 a
 1HelloWorld/src/WrapperOperadoresRelacionales.java,3/2/324141134d4d5751be07172641430070108dfebc
+R
+"HelloWorld/src/WrapperBoolean.java,a/9/a99ccdf525e1f4607aa9569be76ea2eacfe42627
