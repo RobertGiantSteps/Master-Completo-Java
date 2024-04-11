@@ -113,3 +113,17 @@ a
 1HelloWorld/src/WrapperOperadoresRelacionales.java,3/2/324141134d4d5751be07172641430070108dfebc
 R
 "HelloWorld/src/WrapperBoolean.java,a/9/a99ccdf525e1f4607aa9569be76ea2eacfe42627
+Y
+)HelloWorld/src/EjemploMetodoGetClass.java,3/1/31ec718a144b2c35220866c8d8d50578ea4eb57a
+Q
+!HelloWorld/src/PasarPorValor.java,6/3/637d026be147a61558ef26c170c3fc6d5026d073
+V
+&HelloWorld/src/PasarPorReferencia.java,3/2/3227e34ee302968c706ee6f9fe8ff6c9e2705b00
+W
+'HelloWorld/src/EjemploJavaUtilDate.java,5/c/5c207c3b1d4bef2abb1cf33480d366f8f1a7b71f
+[
++HelloWorld/src/EjemploJavaUtilCalendar.java,4/9/49ef515959b53e671f4cad0e4ee1c851fd804a1f
+\
+,HelloWorld/src/EjemploJavaUtilDateParse.java,5/d/5d1dffc4e98ef65d5ba288435eedfdc177e2286e
+P
+ HelloWorld/src/CalcularEdad.java,4/f/4f1435ac296ccc11ec3e389085b56c90b6f06156
